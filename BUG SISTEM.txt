@@ -1,0 +1,15 @@
+**Deskripsi Bug Thesis**
+1. Terdapat bug pada topik TA dimana tidak tampil kolom tabel terdapat judul topik, pembimbing, topik, dan status.
+
+langkah-langkah yang harusnya  dilakukan :
+
+(Given) Saya pada halaman Add Topik
+(When) saya pilih topik bidang
+    AND saya isi judul topik
+    AND saya isi deskripsi
+    AND saya klik save
+(THEN) Topik baru tersimpan
+    AND tampil halaman daftar topik tugas akhir
+AND tampil pesan topik tugas berhasil disimpan
+
+	
